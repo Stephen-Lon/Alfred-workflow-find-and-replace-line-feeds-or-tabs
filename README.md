@@ -1,4 +1,4 @@
-# Alfred-workflow-find-and-replace-linefeeds-or-tabs
+# Alfred-workflow-find-and-replace-line-feeds-or-tabs
 
 # Warning
 Because of the limitations of regular expressions (or my knowledge of them!) use this workflow with care. *Make sure you have a backup of your document before letting this workflow loose on the document (or copy to clipboard at the end and check the results before overwriting)*.
